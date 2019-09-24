@@ -43,7 +43,8 @@ namespace SoalNo4
             }
             else
             {
-                Console.WriteLine("Harga Beli:" + hargaBeliTerpilih + "; Harga Jual:" + hargaJualTerpilih + "; Profit:" + profit);
+                //Console.WriteLine("Harga Beli:" + hargaBeliTerpilih + "; Harga Jual:" + hargaJualTerpilih + "; Profit:" + profit);
+                Console.WriteLine(profit);
             }
 
             Console.ReadLine();

@@ -1,0 +1,6 @@
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo4\bin\Debug\SoalNo4.exe.config
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo4\bin\Debug\SoalNo4.exe
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo4\bin\Debug\SoalNo4.pdb
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo4\obj\Debug\SoalNo4.csproj.CoreCompileInputs.cache
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo4\obj\Debug\SoalNo4.exe
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo4\obj\Debug\SoalNo4.pdb

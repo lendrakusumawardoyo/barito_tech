@@ -1,0 +1,7 @@
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo1\bin\Debug\SoalNo1.exe.config
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo1\bin\Debug\SoalNo1.exe
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo1\bin\Debug\SoalNo1.pdb
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo1\obj\Debug\SoalNo1.csprojAssemblyReference.cache
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo1\obj\Debug\SoalNo1.csproj.CoreCompileInputs.cache
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo1\obj\Debug\SoalNo1.exe
+C:\Users\lwardoyo\source\repos\UjianBarito\SoalNo1\obj\Debug\SoalNo1.pdb
